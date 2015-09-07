@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3acf3bee-fee0-41d2-a4be-8b6886f95841" name="Default" comment="">
+    <list default="true" id="3acf3bee-fee0-41d2-a4be-8b6886f95841" name="Default" comment="idea config - add VCS">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaCV2.iws" />
@@ -492,7 +492,7 @@
       <workItem from="1437546984429" duration="142000" />
       <workItem from="1441420631673" duration="94000" />
       <workItem from="1441420728022" duration="1129000" />
-      <workItem from="1441618352172" duration="216000" />
+      <workItem from="1441618352172" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="idea config - add VCS">
       <created>1441618543077</created>
@@ -500,11 +500,17 @@
       <option name="project" value="LOCAL" />
       <updated>1441618543077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea config - add VCS">
+      <created>1441618572019</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1441618572019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3191000" />
+    <option name="totallyTimeSpent" value="3242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="707" extended-state="0" />
